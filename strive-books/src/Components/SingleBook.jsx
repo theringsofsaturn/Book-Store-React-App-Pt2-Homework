@@ -15,3 +15,4 @@ const SingleBook = ({book}) => (
 );
 
 export default SingleBook;
+
